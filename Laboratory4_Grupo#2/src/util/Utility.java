@@ -9,6 +9,7 @@ import domain.DoublyLinkedList;
 import domain.SinglyLinkedList;
 import java.text.DecimalFormat;
 import java.util.Random;
+//import main.DoubleLinkedList;
 
 /**
  *
@@ -143,6 +144,10 @@ public class Utility {
         }
         return false;
     }
+
+//    public static DoubleLinkedList getDoubleLinkedList() {
+//        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+//    }
      
     
 }
